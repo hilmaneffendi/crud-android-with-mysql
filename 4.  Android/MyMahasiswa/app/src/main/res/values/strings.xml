@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Mahasiswa</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_data_mahasiswa">Input Data Mahasiswa</string>
+    <string name="npm">NPM</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="list_data_mahasiswa">List Data Mahasiswa</string>
+    <string name="detail_mahasiswa">Detail Mahasiswa</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

@@ -1,0 +1,10 @@
+Membuat Wifi dengan CMD
+
+1. Run Administrator CMD
+2. Ketik "netsh wlan set hostednetwork mode=allow ssid=hilmancoder01 key=12345678" (tanpa kutip). Apabila sudah tampil keterangan berikut maka pembuatan Wifinya berhasil.
+
+   The hosted network mode has been set to allow.
+   The SSID of the hosted network has been successfully changed.
+   The user key passphrase of the hosted network has been successfully changed.
+	
+3. Selanjutnya ketik "netsh wlan start hostednetwork" untuk menjalankan Wifi.
